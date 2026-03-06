@@ -77,4 +77,3 @@ Users can filter dashboard insights by:
 
 ---
 
-## 📁 Project Structure
