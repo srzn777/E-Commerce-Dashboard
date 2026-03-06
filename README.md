@@ -77,3 +77,23 @@ Users can filter dashboard insights by:
 
 ---
 
+
+---
+
+## 🚀 How to Use
+1. Download or clone the repository
+2. Open the `.pbix` file in **Power BI Desktop**
+3. Explore the interactive dashboard
+
+---
+
+## 👤 Author
+
+**Srijan Rana**
+
+MBA Student | Business & Data Analytics Enthusiast  
+Skilled in Power BI, Excel, Business Analysis, and Dashboard Development
+
+---
+
+⭐ If you like this project, consider **starring the repository**.
